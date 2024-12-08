@@ -2,6 +2,10 @@
 Best Tweak For TikTok
 
 
+![IMG_1758](https://github.com/user-attachments/assets/655bfab3-a29c-43c3-9d78-ce40465cc3fe)
+
+![IMG_1757](https://github.com/user-attachments/assets/fef048e2-9726-4f09-a9fb-d0c76f6fe8e0)
+
 - Download Videos [ Full Quality ]
 - Download Stories [ Full Quality ]
 - Copy Comments
