@@ -16,11 +16,11 @@ Best Tweak For TikTok
 - Auto Clear Search History
 
 - Edit Tab Bar
-⮑ Hide Friends Tab
-⮑ Hide Home Tab
-⮑ Hide Create Tab
-⮑ Hide Inbox Tab
-⮑ Hide Profile Tab
+- Hide Friends Tab
+- Hide Home Tab
+- Hide Create Tab
+- Hide Inbox Tab
+- Hide Profile Tab
 
 - Disable Pull To Refresh
 - Auto Scroll
